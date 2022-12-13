@@ -33,6 +33,11 @@ body {
 	color: #5c6971
 }
 
+.wrapper {
+	padding: 0 20px;
+	color: #5c6971
+}
+
 .wrapper img {
 	width: 5%;
 }
