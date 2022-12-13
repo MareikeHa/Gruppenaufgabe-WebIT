@@ -6,7 +6,7 @@ body {
 .wrapper {
 	max-width: 1000px;
 	margin: 0 auto;
-	padding: 20px 40px;
+	padding: 40px 40px;
 	background: #eee;
 }
 
@@ -110,5 +110,5 @@ ol li:last-child {
 
 ul li strong {
 	display: inline-block;
-	width: 120px;
+	width: 100px;
 }
