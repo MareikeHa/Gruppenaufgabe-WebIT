@@ -1,5 +1,5 @@
 body {
-	font-family: Verdana, Arial, sans-serif;
+	font-family:Arial, Helvetica, sans-serif;
 	margin: 0;
 }
 
@@ -7,7 +7,7 @@ body {
 	max-width: 1000px;
 	margin: 0 auto;
 	padding: 20px 40px;
-	background: #eee;
+	background: rgb(238, 199, 199);
 }
 
 .navigation {
