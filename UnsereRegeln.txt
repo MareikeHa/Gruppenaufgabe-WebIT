@@ -1,0 +1,17 @@
+Regeln der Zusammenarbeit
+
+In unserer Gruppe einigen wir uns auf bestimmte Regeln, die für eine gute Zusammenarbeit sorgen. Die erste ist die allgemeine Umgangsform mit Problemen. Falls es zu einem Problem innerhalb der Gruppe kommt, versuchen wir es erst intern zu klären. Ansonsten nehmen wir Kontakt zu dem verantwortlichen Dozenten auf. 
+
+Da wir ein kleineres Projekt in GitUP bearbeiten, legen wir zwei Branches an. Dies soll die Struktur in der Git-Verwaltung wahren. 
+Ein zweiter Branch ist nötig um in funktionalen und experimentellen Code aufzuteilen. Im main Branch sollte sich zu jeder Zeit funktionalen Code befinden. Im developer Branch werden Features entwickelt.
+Wir orientieren uns an GitHub Flow.
+
+Damit jeder weiß, was ein anderer erstellt hat, benennen wir die Commits eindeutig mit der Änderung die vorgenommen wurde.
+Verwenden werden wir Offline-Commit und das Zusammenführungsmodel (merging).
+Häufig und dafür kleinschrittig commiten.
+
+Als Projekt haben wir ein „closed source“, da es privat ist. Deshalb haben alle in der Gruppe Schreibzugriff auf das Repository.
+
+Developer Branch angelegt um als "sand-Box" zu nutzen.
+
+--> für nächstes Mal: GitIgnore nutzen (Textdateien dort einfügen) und Feature Branches erstellen
