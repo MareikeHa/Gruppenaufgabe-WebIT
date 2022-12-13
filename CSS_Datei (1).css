@@ -64,3 +64,51 @@ h2 {
 	text-align: center;
 	border-bottom: 3px solid #B289B2;
 }
+/* Raster */
+.row:after {
+    content: '';
+    clear: both;
+    display: block;
+}
+.Zutaten {
+    display: inline-block;
+    float: left;
+    width: 40%;
+
+}
+.row .Zubereitung {
+    display: inline-block;
+    width: 100%;
+}
+.button {
+    background-color: #B289B2;
+    padding: 20px;
+    text-decoration: none;
+    color: rgba(255, 255, 255, 1);
+    display: inline-block;
+}
+
+/* Listen */
+ol,
+ul {
+	padding-left: 20px;
+}
+
+li,
+li {
+	padding-bottom: 10px;
+}
+
+ol li {
+	border-bottom: 1px solid #000;
+	margin-bottom: 10px;
+}
+
+ol li:last-child {
+	border-bottom: none;
+}
+
+ul li strong {
+	display: inline-block;
+	width: 120px;
+}
